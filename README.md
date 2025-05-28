@@ -8,5 +8,8 @@
   - Lỗi Được Phát Hiện : Máy Sẽ Mất Một Số Dữ Liệu Thường Thì Bạn Sẽ Không Biết Nó Là Gì Nên Bạn Là Chuyên Gia Sẽ Phải Sao Lưu Nâng Cao , Bộ Nhớ Bình Thường Như Ảnh.. Sẽ Không Ảnh Hưởng
 
 ## Lấy Lại Dữ Liệu Ở Đâu
+
 [![i-Frame-Screenshot-07-22-28-5-25.jpg](https://i.postimg.cc/brb3JhZq/i-Frame-Screenshot-07-22-28-5-25.jpg)](https://postimg.cc/D4vqjRQN)
-     từ bộ nhớ tô đỏ ạ
+
+
+
