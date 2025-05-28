@@ -6,3 +6,5 @@
   - Các Lỗi Được Phát Hiện : Lỗi Không Thể Chuyển Khoản Khi Đang Thao Tác , Cấm Không Sử Dụng Các Ứng Dụng Ngân Hàng Khi Đang Thao Tác
   - Lỗi Được Phát Hiện : Máy Bị Cheo Cứng : Vui Lòng Chờ Có Thể Mất 30 Phút Máy Mới Dùng Được Bình Thường , Không Thao Tác Tắt Nguồn Đột Ngột
   - Lỗi Được Phát Hiện : Máy Sẽ Mất Một Số Dữ Liệu Thường Thì Bạn Sẽ Không Biết Nó Là Gì Nên Bạn Là Chuyên Gia Sẽ Phải Sao Lưu Nâng Cao , Bộ Nhớ Bình Thường Như Ảnh.. Sẽ Không Ảnh Hưởng
+
+## Lấy Lại Dữ Liệu Ở Đâu
