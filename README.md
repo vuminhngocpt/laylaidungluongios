@@ -19,6 +19,8 @@
 
 [![i-Frame-Screenshot-07-31-28-5-25.jpg](https://i.postimg.cc/RhrL2DXy/i-Frame-Screenshot-07-31-28-5-25.jpg)](https://postimg.cc/xJRmztr3)
 
-### Điều Chỉnh Ngày Giờ Phù Hợp
+### Điều Chỉnh Năm Phù Hợp
 
+   - Vui Lòng Chỉnh Năm Phù Hợp , Một Số Máy Có Thể Chỉnh Lên 10 Năm , Thông Thường Là Chỉnh Lên 1 Năm , Nhưng Nếu Không Được Vui Lòng Thử Lại Năm Khác Nhé , Tuỳ Vào Cài Đặt Thiết Bị Nên Số Năm Sẽ Khác Nhau , Một Số Máy Có Thể Bị Tăng Bộ Nhớ Xin Hãy Yên Tâm Bạn Chọn Phù Hợp Sẽ Được
+   - 
 [![i-Frame-Screenshot-07-39-28-5-25.png](https://i.postimg.cc/2yFhM8qL/i-Frame-Screenshot-07-39-28-5-25.png)](https://postimg.cc/bSrZ2P9q)
