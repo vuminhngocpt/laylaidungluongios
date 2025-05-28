@@ -34,10 +34,14 @@
 ### Đã Thành Công Hoặc Chưa Được Như Ý Vui Lòng Cài Lại Ngày Giờ , Bật Tự Cập Nhật Ngày Giờ Lên
 
   - Khi Thành Công Cài Đặt Lại Thời Gian Cho Đúng
+  - Xem Bộ Nhớ Xem Đã Được Giảm Chưa
   -  Nếu Chưa Được Thì Cài Lại Ngày Giờ Và Làm Theo Cách Trên Nhưng Phải Thay Đổi Năm Hoặc Tháng Khác
   -   Dung Lượng Sẽ Giải Phóng Đối Với iPhone 16 Pro IOS 18.5 Sẽ Còn 1.6GB
   -   Các Bạn Tuỳ Chỉnh Ngày Để Nó Giải Phóng Hết Nhé
   -    Nếu Chưa Được Như Kỳ Vọng Bạn Làm Lại Nhiều Lần Sẽ Được
+  -    Theo Thời Gian Bộ Nhớ Này Sẽ Tăng Lên Bạn Lại Làm Lại Định Kỳ Nhé
+  -    Không Nên Làm Nhiều Lần Quá Để Chánh Máy Bị Lỗi . Nói Chung Là Không Lạm Dụng Tính Năng Này
+  -    Apple Chưa Fix Lỗi Này IOS 15 Đến 18.5 Vẫn Dùng Được 
   -  Mình Viết Hơi Lung Tung Mong Các Bạn Thông Cảm ! 
 
 
