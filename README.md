@@ -38,6 +38,7 @@
   - Nếu Thành Công Vui Lòng Khởi Động Lại Thiết Bị ( Tắt Nguồn Bật Lại)
   -  Nếu Chưa Được Thì Cài Lại Ngày Giờ Và Làm Theo Cách Trên Nhưng Phải Thay Đổi Năm Hoặc Tháng Khác
   -   Dung Lượng Sẽ Giải Phóng Đối Với iPhone 16 Pro IOS 18.5 Sẽ Còn 1.6GB
+ [![i-Frame-Screenshot-13-30-28-5-25.jpg](https://i.postimg.cc/vBhcnQBG/i-Frame-Screenshot-13-30-28-5-25.jpg)](https://postimg.cc/TLydMvgs)
   -   Các Bạn Tuỳ Chỉnh Ngày Để Nó Giải Phóng Hết Nhé
   -    Nếu Chưa Được Như Kỳ Vọng Bạn Làm Lại Nhiều Lần Sẽ Được
   -    Theo Thời Gian Bộ Nhớ Này Sẽ Tăng Lên Bạn Lại Làm Lại Định Kỳ Nhé
