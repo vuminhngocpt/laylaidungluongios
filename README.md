@@ -27,4 +27,3 @@
 
 ### Thoát Ra Màn Hình Chính Và Chờ Kết Quả 
 
-[![IMG-0265.png](https://i.postimg.cc/5tL0nKQ6/IMG-0265.png)](https://postimg.cc/VSsmNRR8)
