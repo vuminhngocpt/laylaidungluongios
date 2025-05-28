@@ -24,3 +24,7 @@
    - Vui Lòng Chỉnh Năm Phù Hợp , Một Số Máy Có Thể Chỉnh Lên 10 Năm , Thông Thường Là Chỉnh Lên 1 Năm , Nhưng Nếu Không Được Vui Lòng Thử Lại Năm Khác Nhé , Tuỳ Vào Cài Đặt Thiết Bị Nên Số Năm Sẽ Khác Nhau , Một Số Máy Có Thể Bị Tăng Bộ Nhớ Xin Hãy Yên Tâm Bạn Chọn Phù Hợp Sẽ Được
    - 
 [![i-Frame-Screenshot-07-39-28-5-25.png](https://i.postimg.cc/2yFhM8qL/i-Frame-Screenshot-07-39-28-5-25.png)](https://postimg.cc/bSrZ2P9q)
+
+### Thoát Ra Màn Hình Chính Và Chờ Kết Quả 
+
+[![IMG-0265.png](https://i.postimg.cc/5tL0nKQ6/IMG-0265.png)](https://postimg.cc/VSsmNRR8)
