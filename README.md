@@ -13,5 +13,9 @@
 
 ## Cách Thực Hiện
 
+   - Vào Cài Đặt Ngày Và Giờ Của Máy Tắt Tự Động Cập Nhật Đi
+     
+   - Nếu Không Tắt Được Bạn Vào Xem Mục * Giới Hạn Sử Dụng * Hoặc Tắt Mật Mã Giới Hạn Đi Nhé Làm Xong Thì Bật Lại 
+
 [![i-Frame-Screenshot-07-31-28-5-25.jpg](https://i.postimg.cc/RhrL2DXy/i-Frame-Screenshot-07-31-28-5-25.jpg)](https://postimg.cc/xJRmztr3)
 
