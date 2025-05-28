@@ -27,3 +27,6 @@
 
 ### Thoát Ra Màn Hình Chính Và Chờ Kết Quả 
 
+[![i-Frame-Screenshot-07-56-28-5-25.png](https://i.postimg.cc/65qpDpGs/i-Frame-Screenshot-07-56-28-5-25.png)](https://postimg.cc/kBrCS9cw)
+
+
