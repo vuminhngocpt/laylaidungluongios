@@ -27,6 +27,8 @@
 
 ### Thoát Ra Màn Hình Chính Và Chờ Kết Quả 
 
+   - Thoát Khỏi Màn Hình Chính Và Chờ Một Lúc , Thiết Bị Có Thể Bị Treo Cứng Một Lúc Bạn Chờ Tầm 5 Phút Hoặc Lâu Hơn , Không Tắt Nguồn Máy 
+
 [![i-Frame-Screenshot-07-56-28-5-25.png](https://i.postimg.cc/65qpDpGs/i-Frame-Screenshot-07-56-28-5-25.png)](https://postimg.cc/kBrCS9cw)
 
 
