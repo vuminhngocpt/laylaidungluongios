@@ -19,3 +19,6 @@
 
 [![i-Frame-Screenshot-07-31-28-5-25.jpg](https://i.postimg.cc/RhrL2DXy/i-Frame-Screenshot-07-31-28-5-25.jpg)](https://postimg.cc/xJRmztr3)
 
+### Điều Chỉnh Ngày Giờ Phù Hợp
+
+[![i-Frame-Screenshot-07-39-28-5-25.png](https://i.postimg.cc/2yFhM8qL/i-Frame-Screenshot-07-39-28-5-25.png)](https://postimg.cc/bSrZ2P9q)
