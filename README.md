@@ -11,5 +11,7 @@
 
 [![i-Frame-Screenshot-07-22-28-5-25.jpg](https://i.postimg.cc/brb3JhZq/i-Frame-Screenshot-07-22-28-5-25.jpg)](https://postimg.cc/D4vqjRQN)
 
+## Cách Thực Hiện
 
+[![i-Frame-Screenshot-07-31-28-5-25.jpg](https://i.postimg.cc/RhrL2DXy/i-Frame-Screenshot-07-31-28-5-25.jpg)](https://postimg.cc/xJRmztr3)
 
