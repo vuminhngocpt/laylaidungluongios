@@ -35,6 +35,7 @@
 
   - Khi Thành Công Cài Đặt Lại Thời Gian Cho Đúng
   - Xem Bộ Nhớ Xem Đã Được Giảm Chưa
+  - Nếu Thành Công Vui Lòng Khởi Động Lại Thiết Bị ( Tắt Nguồn Bật Lại)
   -  Nếu Chưa Được Thì Cài Lại Ngày Giờ Và Làm Theo Cách Trên Nhưng Phải Thay Đổi Năm Hoặc Tháng Khác
   -   Dung Lượng Sẽ Giải Phóng Đối Với iPhone 16 Pro IOS 18.5 Sẽ Còn 1.6GB
   -   Các Bạn Tuỳ Chỉnh Ngày Để Nó Giải Phóng Hết Nhé
